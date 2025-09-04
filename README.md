@@ -19,8 +19,8 @@ SQL, PostgreSQL, MongoDB, AWS, Docker, Kubernetes, Terraform, Ansible, Linux
 
 ---
 
-## 📂 Portfolio
-- [Umejr Demir](https://www.demir-umejr.com)
+## 📂 Portfolio and 💡Projects
+- You can find my portfolio, CV and some of my projects at [Umejr Demir](https://www.demir-umejr.com)
 
 ---
 
