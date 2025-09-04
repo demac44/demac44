@@ -31,14 +31,6 @@ SQL, PostgreSQL, MongoDB, AWS, Docker, Kubernetes, Terraform, Ansible, Linux
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umejr&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umejr&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
-</p>
-
----
-
 ## 🌍 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/umejr-demir/)  
 - 📫 Reach me at: **demirumejr2@gmail.com**  
