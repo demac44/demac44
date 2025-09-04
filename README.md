@@ -26,8 +26,8 @@ SQL, PostgreSQL, MongoDB, AWS, Docker, Kubernetes, Terraform, Ansible, Linux
 
 ## 📜 Certificates
 - [Harvard CS50 - Introduction to Computer Science](https://certificates.cs50.io/10edfbf4-873c-45a5-aa2d-2a8d6f829140.pdf?size=letter)  
-- [SQL for Data Science (University of California, Davis)]([link-here](https://www.coursera.org/account/accomplishments/verify/2XND8CKZ559H?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course))  
-- [Introduction to Back-end Developement (Meta)](https://www.coursera.org/account/accomplishments/verify/ES7XGN4QUUX6?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)  
+- [SQL for Data Science (University of California, Davis)](https://coursera.org/share/c056a60891130b1c272d0be85d7ccfc7)  
+- [Introduction to Back-end Developement (Meta)](https://coursera.org/share/cc55e7e2754e725948ed98f468dc0724)  
 
 ---
 
