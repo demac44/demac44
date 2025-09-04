@@ -2,14 +2,7 @@
 
 💻 **Software Engineer**  
 
- Graduated Software Engineer with 4 years of hands-on
- experience in software development. Proficient in building
- scalable applications with modern technologies. Skilled in
- streamlining workflows through DevOps practices,
- including CI/CD, Docker, and infrastructure automation.
- Strong understanding of data structures, algorithms, and
- software design principles, with a focus on clean, efficient,
- and maintainable code.
+Software Engineer with 4 years of experience in designing and developing reliable, scalable applications. Strong foundation in data structures, algorithms, and software design principles, with a focus on writing clean, efficient, and maintainable code. Experienced in collaborating on complex projects and continuously improving systems to deliver high-quality solutions.
 
 ---
 
